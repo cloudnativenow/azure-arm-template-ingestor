@@ -18,3 +18,7 @@ The process is initiated by executing a sub flow called "Process ARM Template" w
 
 <img width="1389" alt="image" src="https://user-images.githubusercontent.com/48064904/178052088-01a2fb05-eb06-4da0-a163-98c725f38982.png">
 
+The resulting catalog item will contain the variables and key attributes as defined in the ARM temaplte and optionally further in the UI definition file.
+
+![image](https://user-images.githubusercontent.com/48064904/178052488-c47d026f-e4f0-4626-bd00-e0fc507ccfdf.png)
+
