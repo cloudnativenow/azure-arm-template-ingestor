@@ -22,3 +22,7 @@ The resulting catalog item will contain the variables and key attributes as defi
 
 ![image](https://user-images.githubusercontent.com/48064904/178052488-c47d026f-e4f0-4626-bd00-e0fc507ccfdf.png)
 
+The update set includes the following files
+<img width="1658" alt="image" src="https://user-images.githubusercontent.com/48064904/178053178-5c58962d-1522-4274-b645-a328607f4801.png">
+
+
