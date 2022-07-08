@@ -15,3 +15,6 @@ More information on the structure and syntax of Azure ARM templates can be found
 
 
 The process is initiated by executing a sub flow called "Process ARM Template" with a single input called URL. URL points to a location containg an ARM template.
+
+<img width="1389" alt="image" src="https://user-images.githubusercontent.com/48064904/178052088-01a2fb05-eb06-4da0-a163-98c725f38982.png">
+
