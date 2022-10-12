@@ -20,7 +20,7 @@ The process is initiated by executing a sub flow called "Process ARM Template".
 
 <img width="1389" alt="image" src="https://user-images.githubusercontent.com/48064904/178052088-01a2fb05-eb06-4da0-a163-98c725f38982.png">
 
-The resulting catalog item will contain the variables and key attributes as defined in the ARM template and if provided further in the UI definition file. You can see in the image below that in this example a drop down field with available values was created. Attributes such as tooltips and mandatory and read only were set as well base don the template definition and supporting UI defintiion file parsing.
+The resulting catalog item will contain the variables and key attributes as defined in the ARM template and if provided further in the UI definition file. You can see in the image below that in this example a drop down field with available values was created. Attributes such as tooltips and mandatory and read only were set as well based on the template definition and supporting UI defintiion file parsing.
 
 ![image](https://user-images.githubusercontent.com/48064904/178052488-c47d026f-e4f0-4626-bd00-e0fc507ccfdf.png)
 
